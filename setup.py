@@ -30,7 +30,7 @@ setup(
         "h5py",
         "lxml",
         "hidapi",
-        "tianshou==0.4.10",
+        "tianshou",
     ],
     eager_resources=["*"],
     include_package_data=True,
