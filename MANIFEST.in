@@ -1,0 +1,5 @@
+recursive-include robocasa/demos *
+recursive-include robocasa/environments *
+recursive-include robocasa/scripts *
+recursive-include robocasa/models *
+recursive-include robocasa/utils *
